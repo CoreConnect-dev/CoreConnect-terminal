@@ -53,3 +53,12 @@ Once the setup is complete, you can start the bot using:
 If you've entered all the information correctly, your bot should be up and running, allowing you to execute SSH commands via Telegram.
 
 If you encounter any issues during setup, double-check that you've entered the correct information and that your SSH key is properly configured. If problems persist, consult the repository's issues section or seek help from the community.
+
+```
+Upcoming fixes:
+
+1. Change the apt process on the bot to be able to do apt commands from telegram.
+2. File uploading and downloading from telegram.
+3. Memorize directories diving to be able to run commands/scripts in specific directories.
+
+```
